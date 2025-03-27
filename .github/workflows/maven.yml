@@ -1,3 +1,4 @@
+
 name: Maven Build and Test
 
 on:
@@ -23,9 +24,9 @@ jobs:
         with:
           java-version: '11'  # You can adjust this to any version you want
 
-      # Cache Maven dependencies
+      # Cache Maven dependencies (Updated to use actions/cache@v3)
       - name: Cache Maven dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.m2/repository
           key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
