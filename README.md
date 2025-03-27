@@ -4,7 +4,7 @@
 
 ## Tittebygda  
 
-Du kommer til en bygd, Tittebygda. Her er det slik at alle er litt perverse.  
+Du kommer til en bygd, Tittebygda. Her er det slik at alle er litt creepy.  
 Den første du møter i bygda er Jonatan, som ved hjelp av teleskopet i stua  
 spionerer på naboen Margrete. Når du går til hennes hus for å si ifra,  
 finner du ut at hun spionerer på Per, som bor to hus over.  
