@@ -12,6 +12,13 @@ Litt videre undersøkelse viser at hver nye person du møter er en stalker
 som spionerer på en annen. Etter hvert vil du finne personen  
 som spionerer på Jonatan.  
 
+## Framgangsmåte 
+Trykk use as template for å få repo-en på egen profil. 
+Klon den til maskinen og implementer de to metodene i Tittebygda.java. Du kan kjøre main metoden i den klassen eller unit testene 
+for å se om ting fungerer. Du kan også utforske de to andre klassene for å se hva metoder du har tilgang på. 
+Når du commit-er og pusher til main vil github actions automatisk sette opp et environment i github og kjøre testene 
+for å se om du har gjort riktig. (Forhåpentligvis, vi har ikke testet dette lol)
+
 ## Oppgave 1
 Din jobb er å finne ut hvor stor omkretsen av tittesirkelen er.  
 
